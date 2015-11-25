@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.Owin.Security.WeChat", "Microsoft.Owin.Security.WeChat\Microsoft.Owin.Security.WeChat.csproj", "{A9A0BA07-5273-4D93-A398-E5F94177CC38}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kwibon.Owin.Security.WeChat", "Microsoft.Owin.Security.WeChat\Kwibon.Owin.Security.WeChat.csproj", "{A9A0BA07-5273-4D93-A398-E5F94177CC38}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.Owin.Security.QQ", "Microsoft.Owin.Security.QQ\Microsoft.Owin.Security.QQ.csproj", "{2B96497A-C363-473A-BDD4-CC390B7ADB96}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kwibon.Owin.Security.QQ", "Microsoft.Owin.Security.QQ\Kwibon.Owin.Security.QQ.csproj", "{2B96497A-C363-473A-BDD4-CC390B7ADB96}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -7,7 +7,7 @@ using Microsoft.Owin.Security.DataProtection;
 using Microsoft.Owin.Security.Infrastructure;
 using Owin;
 
-namespace Microsoft.Owin.Security.WeChat
+namespace Kwibon.Owin.Security.WeChat
 {
     public class WeChatAuthenticationMiddleware :AuthenticationMiddleware<WeChatAuthenticationOptions>
     {

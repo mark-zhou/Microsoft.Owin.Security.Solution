@@ -1,5 +1,5 @@
 ﻿using System;
-using Microsoft.Owin.Security.WeChat;
+using Kwibon.Owin.Security.WeChat;
 using Microsoft.Owin.Security;
 
 namespace Owin

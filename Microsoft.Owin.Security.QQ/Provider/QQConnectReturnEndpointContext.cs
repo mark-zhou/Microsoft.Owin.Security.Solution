@@ -21,7 +21,7 @@ using Microsoft.Owin;
 using Microsoft.Owin.Security;
 using Microsoft.Owin.Security.Provider;
 
-namespace Microsoft.Owin.Security.WeChat
+namespace Kwibon.Owin.Security.QQ
 {
     public class QQConnectReturnEndpointContext : ReturnEndpointContext
     {

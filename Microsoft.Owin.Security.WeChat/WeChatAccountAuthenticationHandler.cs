@@ -10,7 +10,7 @@ using Microsoft.Owin.Security.Infrastructure;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 
-namespace Microsoft.Owin.Security.WeChat
+namespace Kwibon.Owin.Security.WeChat
 {
     internal class WeChatAccountAuthenticationHandler : AuthenticationHandler<WeChatAuthenticationOptions>
     {

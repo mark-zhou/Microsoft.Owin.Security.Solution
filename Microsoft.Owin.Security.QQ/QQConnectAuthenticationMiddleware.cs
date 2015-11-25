@@ -22,7 +22,7 @@ using Microsoft.Owin.Security.DataProtection;
 using Microsoft.Owin.Security.Infrastructure;
 using Owin;
 
-namespace Microsoft.Owin.Security.WeChat
+namespace Kwibon.Owin.Security.QQ
 {
     public class QQConnectAuthenticationMiddleware :AuthenticationMiddleware<QQConnectAuthenticationOptions>
     {

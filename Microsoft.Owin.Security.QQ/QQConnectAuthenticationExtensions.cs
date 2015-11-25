@@ -14,10 +14,11 @@
  *  limitations under the License.
  */
 using System;
-using Microsoft.Owin.Security.WeChat;
+using Kwibon.Owin.Security.QQ;
 using Microsoft.Owin.Security;
+using Owin;
 
-namespace Owin
+namespace Kwibon.Owin.Security.QQ
 {
     public static class QQConnectAuthenticationExtensions
     {

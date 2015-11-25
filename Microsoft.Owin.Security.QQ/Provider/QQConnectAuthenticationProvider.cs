@@ -19,7 +19,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Microsoft.Owin.Security.WeChat
+namespace Kwibon.Owin.Security.QQ
 {
     public class QQConnectAuthenticationProvider : IQQConnectAuthenticationProvider
     {

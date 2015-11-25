@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Microsoft.Owin.Security.QQ")]
+[assembly: AssemblyTitle("Kwibon.Owin.Security.QQ")]
 [assembly: AssemblyDescription("Middleware that enables an application to support QQConnect OAuth 2.0 authentication workflow.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("momy")]
-[assembly: AssemblyProduct("Microsoft.Owin.Security.QQ")]
+[assembly: AssemblyProduct("Kwibon.Owin.Security.QQ")]
 [assembly: AssemblyCopyright("Copyright © momy 2013")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

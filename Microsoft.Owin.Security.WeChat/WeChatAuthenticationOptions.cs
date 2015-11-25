@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Net.Http;
 using Microsoft.Owin.Security;
 
-namespace Microsoft.Owin.Security.WeChat
+namespace Kwibon.Owin.Security.WeChat
 {
     public class WeChatAuthenticationOptions : AuthenticationOptions
     {
